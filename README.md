@@ -41,6 +41,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi18131&show_icons=true&locale=en&layout=compact" alt="ravi18131" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi18131&show_icons=true&locale=en" alt="ravi18131" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi18131&" alt="ravi18131" /></p>
